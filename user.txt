@@ -1,4 +1,0 @@
-admin, adm1n
-raquel, raq
-slade, s1ade
-delete, del
