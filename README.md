@@ -1,4 +1,4 @@
-# User-And-Task-Manager
+# User and Task Management System
 ## Overview:
 This project implements a Python-based task and user management system for a small business. It allows secure login, user registration (admin only), task creation, and task viewing. The program uses text files for persistent storage, applying **file handling**, **string manipulation**, **loops**, and **conditional logic** to manage and display information.
 
